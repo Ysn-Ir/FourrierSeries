@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(58,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(108,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(141,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(141,25): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(153,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(153,32): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(157,48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(157,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(200,31): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(210,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ouali\source\repos\Fourier Series\Fourier Series\main.cpp(220,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Fourier Series.vcxproj -> C:\Users\ouali\source\repos\Fourier Series\x64\Debug\Fourier Series.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
